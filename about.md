@@ -1,3 +1,8 @@
+---
+layout: base.njk
+title: "It's all about this site"
+---
+
 # About This Site
 
 - Oh, so cool.

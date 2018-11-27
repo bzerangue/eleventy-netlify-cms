@@ -1,3 +1,8 @@
+---
+layout: base.njk
+title: "Oh, you are Home!"
+---
+
 # Hello
 
 ## More stuff
