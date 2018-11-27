@@ -80,3 +80,6 @@ typings/
 
 #eleventy 
 _site/
+
+#Mac Related
+.DS_Store
