@@ -1,8 +1,6 @@
 ---
-layout: base.njk
+layout: blog.njk
 title: "B-log"
 ---
-
-# Blog
 
 This is a blog.
